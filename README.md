@@ -6,7 +6,7 @@ Data Sources:
 * https://www.statista.com/statistics/433786/fitness-facilities-enterprises-uk-united-kingdom/
 * https://www.statista.com/statistics/433818/fitness-facilities-turnover-uk-united-kingdom/
 
-Followed Cairo's principles while Visualizing Data:
+Followed [Albert Cairo's](http://albertocairo.com/) principles from his book [The Truthful Art](http://www.thefunctionalart.com/p/the-truthful-art-book.html) while Visualizing Data:
 * Truthfulness - Design reflects accurate numbers from the source in correct proportions, it also looks at a large enough period of time to not create impressions from sections of data.
 * Functionality - Design has tried to optimize data ink ratio and is friendly for all people regardless of limitations of color vision.
 * Beauty - Design conveys only and exactly the answer to the proposed question. It reduces distraction and ambiguity.
