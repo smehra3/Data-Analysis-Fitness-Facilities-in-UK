@@ -1,4 +1,4 @@
-# Data-Analysis-Fitness-Facilities-in-UK
+# Data Analysis Fitness Facilities in UK
 
 Analyzed correlation between number of fitness facilities (generally on rise from 2008-2018) and turnover for fitness facilities (also generally on rise from 2008-2018). 
 
